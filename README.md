@@ -1,4 +1,4 @@
-# prototipo-cinemacovid19
+# prototipo-cinemacovid19 ~ Por Nicholas Bertolo
 
 ## Proposta
 Devido ao cenário atual da pandemia do COVID-19 as pessoas devem manter uma distância segura umas das outras, com base nesse fato foi desenvolvido um protótipo para um futuro sistema para cinemas que trata desse requisito. No programa gera-se uma matriz MxN indicando as poltronas de uma sala de cinema, e em cada matriz são exibidios os números 0(poltrona vazia), 1(poltrona resevada) e 2(poltrona vazia, porém não pode ser preenchida).
@@ -24,4 +24,6 @@ Uma pessoa pode reservar mais de uma poltrona ao lado, contanto que as outras po
 
 • Java Collections (Arraylist, vector)
 
-• Herança e Polimorfismo de classes
+• Composição de Classes
+
+• Herança e Polimorfismo de Classes
