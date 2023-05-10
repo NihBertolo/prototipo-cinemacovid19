@@ -1,4 +1,4 @@
-# prototipo-cinemacovid19 ~ Por Nicholas Bertolo
+# prototipo-cinemacovid19 ~ Por Nicole Bertolo
 
 ## Proposta
 Devido ao cenário atual da pandemia do COVID-19 as pessoas devem manter uma distância segura umas das outras, com base nesse fato foi desenvolvido um protótipo para um futuro sistema para cinemas que trata desse requisito. No programa gera-se uma matriz MxN indicando as poltronas de uma sala de cinema, e em cada matriz são exibidios os números 0(poltrona vazia), 1(poltrona resevada) e 2(poltrona vazia, porém não pode ser preenchida).
